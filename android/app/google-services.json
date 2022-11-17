@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "837679668430",
+    "project_id": "can-twait1",
+    "storage_bucket": "can-twait1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837679668430:android:be09b2c64a41e630e2849f",
+        "android_client_info": {
+          "package_name": "com.cantwait.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837679668430-rruohhobvpp56f6ve4276psbm0m80f5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MsR_F-P6LgWEgaPHdddTnAZsJaodN-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837679668430-rruohhobvpp56f6ve4276psbm0m80f5r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837679668430-dhe81vel5uslqhjk4sjf7980l0ie6e2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cantwait.cantwait28"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837679668430:android:a0e4c8ef59c6a567e2849f",
+        "android_client_info": {
+          "package_name": "com.example.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837679668430-rruohhobvpp56f6ve4276psbm0m80f5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MsR_F-P6LgWEgaPHdddTnAZsJaodN-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837679668430-rruohhobvpp56f6ve4276psbm0m80f5r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837679668430-dhe81vel5uslqhjk4sjf7980l0ie6e2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cantwait.cantwait28"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

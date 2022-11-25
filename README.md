@@ -8,10 +8,9 @@ It counts days down to exciting dates in the future.
 
 To run it please:
 
-
 ## Change App ID:
 
-Find and replace any occurance of `com.example` to `com.yourcompanyname`
+Find and replace any occurance of `com.cantwait` to `com.yourcompanyname`
 
 ## Configure Firebase in your system:
 
@@ -34,9 +33,9 @@ flutterfire configure
 
 ## Configure Firebase project
 
-Log in to your [Firebase Account](https://console.firebase.google.com/) 
+Log in to your [Firebase Account](https://console.firebase.google.com/)
 
-1. Enable Authentication > Email/Password Provider 
+1. Enable Authentication > Email/Password Provider
 2. Create Cloud Firestore database.
 
 # Getting Started with Flutter
